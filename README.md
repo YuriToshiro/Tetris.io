@@ -1,3 +1,4 @@
-# Tetris.io
-First year at HCMUS 
-Subject: Introduction to Information Technology
+# Tetris.io 
+# Subject: Introduction to Information Technology
+
+First year at HCMUS (2020)
