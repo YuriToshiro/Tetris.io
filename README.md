@@ -1,4 +1,4 @@
 # Tetris.io 
 # Subject: Introduction to Information Technology
 
-First year at HCMUS (2020)
+My first project at HCMUS (2020)
